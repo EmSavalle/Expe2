@@ -1,0 +1,132 @@
+Cible Gauche
+Main Droite
+Fin
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 0
+Position 36_20
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence -1
+Position 12_21
+Son
+Numero 4
+Mouvement Eloignement Droite
+Valence 1
+Position 36_20
+Son
+Numero 5
+Mouvement Approche Droite
+Valence 0
+Position 24_0
+Son
+Numero 6
+Mouvement Droite
+Valence 1
+Position 21_-12
+Son
+Numero 7
+Mouvement Eloignement Droite
+Valence 1
+Position 21_-36
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 0
+Position 36_20
+Son
+Numero 3
+Mouvement Droite
+Valence 1
+Position 41_0
+Son
+Numero 4
+Mouvement Approche Droite
+Valence 0
+Position 21_-12
+Son
+Numero 5
+Mouvement Droite
+Valence 1
+Position 12_-21
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 7_-12
+Son
+Numero 7
+Mouvement Gauche
+Valence -1
+Position 12_-7
+Son
+Numero 8
+Mouvement Approche Gauche
+Valence -1
+Position 8_0
+Son
+Numero 9
+Mouvement Gauche
+Valence -1
+Position 7_4
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 0
+Position 7_12
+Son
+Numero 11
+Mouvement Approche Droite
+Valence 0
+Position 7_4
+Son
+Numero 1
+Position 24_0
+Son
+Numero 2
+Mouvement Gauche
+Valence -1
+Position 21_12
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Valence 0
+Position 21_36
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence -1
+Position 0_24
+Son
+Numero 5
+Mouvement Approche Droite
+Valence 0
+Position 7_12
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 1
+Position 21_12
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 36_20
+Son
+Numero 8
+Mouvement Droite
+Valence 1
+Position 41_0
+Son
+Numero 9
+Mouvement Approche Droite
+Valence 0
+Position 21_-12
