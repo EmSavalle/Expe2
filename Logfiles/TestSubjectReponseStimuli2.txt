@@ -1,0 +1,4774 @@
+Cible Droite
+Main Gauche
+Fin
+Trajectoire 1
+ValenceTraj Positif
+TriggerTraj 4
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Gauche
+Valence 0
+Position 12_21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 0_24
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 7_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Gauche
+Valence 1
+Position 0_14
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement
+Valence 1
+Position 0_24
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement Droite
+Valence 0
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 2
+ValenceTraj Positif
+TriggerTraj 6
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Gauche
+Valence 0
+Position 12_21
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 3
+ValenceTraj Positif
+TriggerTraj 8
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 14_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Droite
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 11
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 4
+ValenceTraj Negatif
+TriggerTraj 10
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 5
+ValenceTraj Positif
+TriggerTraj 12
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 6
+ValenceTraj Negatif
+TriggerTraj 14
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 7_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 7_4
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 7
+ValenceTraj Negatif
+TriggerTraj 16
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 8
+ValenceTraj Negatif
+TriggerTraj 18
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 3_-4
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 8
+Mouvement Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 9
+ValenceTraj Negatif
+TriggerTraj 20
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Gauche
+Valence 0
+Position 7_-4
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 10
+ValenceTraj Negatif
+TriggerTraj 22
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 12_-7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Droite
+Valence 0
+Position 0_-14
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Gauche
+Valence 0
+Position 4_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Droite
+Valence 0
+Position 0_-14
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Gauche
+Valence 0
+Position 4_-7
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 11
+ValenceTraj Positif
+TriggerTraj 24
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 14_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 12
+ValenceTraj Positif
+TriggerTraj 26
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 13
+ValenceTraj Positif
+TriggerTraj 28
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 7_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 0_14
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 0_8
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 4_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_14
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Droite
+Valence 0
+Position 12_21
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche
+Valence -1
+Position 7_12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Droite
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 14
+ValenceTraj Positif
+TriggerTraj 30
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 15
+ValenceTraj Negatif
+TriggerTraj 32
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 16
+ValenceTraj Negatif
+TriggerTraj 34
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 7
+Mouvement Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 17
+ValenceTraj Positif
+TriggerTraj 36
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 18
+ValenceTraj Negatif
+TriggerTraj 38
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 12_-21
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 19
+ValenceTraj Negatif
+TriggerTraj 40
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 20
+ValenceTraj Positif
+TriggerTraj 42
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 0_24
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 21
+ValenceTraj Positif
+TriggerTraj 44
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 22
+ValenceTraj Positif
+TriggerTraj 46
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Gauche
+Valence 0
+Position 14_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Gauche
+Valence 0
+Position 14_0
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 23
+ValenceTraj Positif
+TriggerTraj 48
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 24
+ValenceTraj Negatif
+TriggerTraj 50
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Droite
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 25
+ValenceTraj Positif
+TriggerTraj 52
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 14_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 26
+ValenceTraj Positif
+TriggerTraj 54
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 0_-24
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 9
+Mouvement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 11
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 27
+ValenceTraj Negatif
+TriggerTraj 56
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 7_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Droite
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 21_36
+TriggerSon 2
+Son
+Numero 7
+Mouvement Droite
+Valence -1
+Position 36_20
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 28
+ValenceTraj Positif
+TriggerTraj 58
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 29
+ValenceTraj Negatif
+TriggerTraj 60
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Droite
+Valence 0
+Position 12_-21
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 0_-14
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 0_-8
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement
+Valence 1
+Position 0_-14
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche
+Valence -1
+Position 0_-8
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Gauche
+Valence 0
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 30
+ValenceTraj Negatif
+TriggerTraj 62
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 8_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 5_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 7_4
+TriggerSon 2
+Son
+Numero 8
+Mouvement Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 4_-2
+TriggerSon 2
+Son
+Numero 10
+Mouvement Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+Son
+Numero 11
+Mouvement Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 31
+ValenceTraj Positif
+TriggerTraj 64
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 7_12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 32
+ValenceTraj Negatif
+TriggerTraj 66
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-8
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 33
+ValenceTraj Positif
+TriggerTraj 68
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 34
+ValenceTraj Positif
+TriggerTraj 70
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 7_12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Droite
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 35
+ValenceTraj Negatif
+TriggerTraj 72
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 12_-21
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement
+Valence 1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 0_-24
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 0_-14
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 3_-4
+TriggerSon 2
+Son
+Numero 9
+Mouvement Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 36
+ValenceTraj Negatif
+TriggerTraj 74
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 37
+ValenceTraj Positif
+TriggerTraj 76
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 38
+ValenceTraj Negatif
+TriggerTraj 78
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Gauche
+Valence 0
+Position 7_-4
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 39
+ValenceTraj Positif
+TriggerTraj 80
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 40
+ValenceTraj Positif
+TriggerTraj 82
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 41
+ValenceTraj Negatif
+TriggerTraj 84
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Droite
+Valence 0
+Position 7_-12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 0_-8
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 42
+ValenceTraj Positif
+TriggerTraj 86
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+Son
+Numero 9
+Mouvement Droite
+Valence -1
+Position 36_20
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 43
+ValenceTraj Positif
+TriggerTraj 88
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Droite
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 44
+ValenceTraj Negatif
+TriggerTraj 90
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 41_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 45
+ValenceTraj Negatif
+TriggerTraj 92
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Gauche
+Valence 0
+Position 12_21
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 7_4
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Droite
+Valence 0
+Position 14_0
+TriggerSon 2
+Son
+Numero 10
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 46
+ValenceTraj Negatif
+TriggerTraj 94
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Gauche
+Valence 0
+Position 8_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 7_4
+TriggerSon 2
+Son
+Numero 8
+Mouvement Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 4_-2
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Droite
+Valence 0
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 47
+ValenceTraj Negatif
+TriggerTraj 96
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Droite
+Valence 0
+Position 41_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Gauche
+Valence 0
+Position 14_0
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 48
+ValenceTraj Negatif
+TriggerTraj 98
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Gauche
+Valence 0
+Position 7_4
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 5_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Droite
+Valence 0
+Position 7_-4
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 49
+ValenceTraj Positif
+TriggerTraj 100
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 8_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement
+Valence 1
+Position 14_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 50
+ValenceTraj Positif
+TriggerTraj 102
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement
+Valence 1
+Position 21_36
+TriggerSon 2
+Son
+Numero 9
+Mouvement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 51
+ValenceTraj Negatif
+TriggerTraj 104
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 52
+ValenceTraj Negatif
+TriggerTraj 106
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 21_-36
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 0_-24
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Gauche
+Valence 0
+Position 7_-12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Droite
+Valence -1
+Position 0_-14
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche
+Valence -1
+Position 0_-8
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 53
+ValenceTraj Positif
+TriggerTraj 108
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 7_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Droite
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 14_0
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Eloignement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 54
+ValenceTraj Negatif
+TriggerTraj 110
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 55
+ValenceTraj Negatif
+TriggerTraj 112
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 12_7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 4_2
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Droite
+Valence 0
+Position 8_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 4_-2
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Droite
+Valence 0
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Droite
+Valence -1
+Position 0_-8
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 56
+ValenceTraj Negatif
+TriggerTraj 114
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 7_4
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 5_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 7_-4
+TriggerSon 2
+Son
+Numero 7
+Mouvement Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 57
+ValenceTraj Negatif
+TriggerTraj 116
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Droite
+Valence 0
+Position 0_-8
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 58
+ValenceTraj Positif
+TriggerTraj 118
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 59
+ValenceTraj Positif
+TriggerTraj 120
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 0_24
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 7_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Droite
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 60
+ValenceTraj Positif
+TriggerTraj 122
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Droite
+Valence 0
+Position 12_-7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Gauche
+Valence 0
+Position 7_-4
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 14_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 61
+ValenceTraj Negatif
+TriggerTraj 124
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 0_-8
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Gauche
+Valence 1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Gauche
+Valence 0
+Position 4_-2
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 8_0
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 4_-2
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 62
+ValenceTraj Negatif
+TriggerTraj 126
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 63
+ValenceTraj Positif
+TriggerTraj 128
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Gauche
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 8
+Mouvement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 64
+ValenceTraj Positif
+TriggerTraj 130
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 14_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 65
+ValenceTraj Negatif
+TriggerTraj 132
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 41_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 66
+ValenceTraj Negatif
+TriggerTraj 134
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 11
+Mouvement Approche Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 67
+ValenceTraj Negatif
+TriggerTraj 136
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 8_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 4_-2
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 5_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 4_-2
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement Droite
+Valence 0
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Gauche
+Valence 0
+Position 4_-2
+TriggerSon 2
+Son
+Numero 9
+Mouvement Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 68
+ValenceTraj Negatif
+TriggerTraj 138
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 69
+ValenceTraj Negatif
+TriggerTraj 140
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Gauche
+Valence 1
+Position 12_21
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche
+Valence -1
+Position 7_12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Droite
+Valence 0
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 8_0
+TriggerSon 2
+Son
+Numero 11
+Mouvement Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 70
+ValenceTraj Positif
+TriggerTraj 142
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 7_-4
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 4_-2
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Droite
+Valence 0
+Position 4_-7
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement
+Valence 1
+Position 7_-12
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 9
+Mouvement Gauche
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 71
+ValenceTraj Negatif
+TriggerTraj 144
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Droite
+Valence 0
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 72
+ValenceTraj Positif
+TriggerTraj 146
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement
+Valence 1
+Position 21_12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 4_7
+TriggerSon 2
+Son
+Numero 8
+Mouvement Eloignement
+Valence 1
+Position 7_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Gauche
+Valence 1
+Position 0_24
+TriggerSon 2
+Son
+Numero 10
+Mouvement Eloignement
+Valence 1
+Position 0_41
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 73
+ValenceTraj Negatif
+TriggerTraj 148
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Approche Gauche
+Valence 0
+Position 12_7
+TriggerSon 2
+Son
+Numero 3
+Mouvement Eloignement Droite
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche
+Valence -1
+Position 14_0
+TriggerSon 2
+Son
+Numero 5
+Mouvement Approche Gauche
+Valence 0
+Position 7_4
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 4_2
+TriggerSon 2
+Son
+Numero 7
+Mouvement Eloignement
+Valence 1
+Position 7_4
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 4_2
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Droite
+Valence 0
+Position 8_0
+TriggerSon 2
+Son
+Numero 10
+Mouvement Approche Droite
+Valence -1
+Position 4_-2
+TriggerSon 2
+Son
+Numero 11
+Mouvement Droite
+Valence -1
+Position 3_-4
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 74
+ValenceTraj Positif
+TriggerTraj 150
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Droite
+Valence -1
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Droite
+Valence -1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 6
+Mouvement Eloignement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 7
+Mouvement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche Droite
+Valence -1
+Position 21_12
+TriggerSon 2
+Son
+Numero 9
+Mouvement Eloignement Droite
+Valence 0
+Position 41_0
+TriggerSon 2
+Son
+Numero 10
+Mouvement Gauche
+Valence 1
+Position 36_20
+TriggerSon 2
+Son
+Numero 11
+Mouvement Gauche
+Valence 1
+Position 21_36
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 75
+ValenceTraj Negatif
+TriggerTraj 152
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement Droite
+Valence 0
+Position 36_-20
+TriggerSon 2
+Son
+Numero 3
+Mouvement Approche Gauche
+Valence 0
+Position 24_0
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 5
+Mouvement Eloignement Droite
+Valence 0
+Position 12_-21
+TriggerSon 2
+Son
+Numero 6
+Mouvement Droite
+Valence -1
+Position 0_-24
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Gauche
+Valence 0
+Position 7_-12
+TriggerSon 2
+Son
+Numero 8
+Mouvement Approche
+Valence -1
+Position 4_-7
+TriggerSon 2
+Son
+Numero 9
+Mouvement Approche Droite
+Valence -1
+Position 0_-5
+TriggerSon 2
+FinSon 
+Desagreable 14
+Fin
+Trajectoire 76
+ValenceTraj Negatif
+TriggerTraj 154
+Son
+Numero 1
+Position 24_0
+TriggerSon 2
+Son
+Numero 2
+Mouvement Eloignement
+Valence 1
+Position 41_0
+TriggerSon 2
+Son
+Numero 3
+Mouvement Droite
+Valence -1
+Position 36_-20
+TriggerSon 2
+Son
+Numero 4
+Mouvement Approche Droite
+Valence -1
+Position 12_-21
+TriggerSon 2
+Son
+Numero 5
+Mouvement Gauche
+Valence 1
+Position 21_-12
+TriggerSon 2
+Son
+Numero 6
+Mouvement Approche
+Valence -1
+Position 12_-7
+TriggerSon 2
+Son
+Numero 7
+Mouvement Approche Droite
+Valence -1
+Position 4_-7
+TriggerSon 2
